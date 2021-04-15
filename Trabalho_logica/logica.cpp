@@ -14,7 +14,7 @@
 #include <time.h>
 
 using namespace std;
-//By: 4minutos
+//By: Felipe Santos 
 
 typedef struct{
     string nome;
